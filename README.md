@@ -51,7 +51,7 @@ Ensure you have the following installed:
   
 3. **Install the required packages**:
    ```bash
-   cd pip install pandas numpy matplotlib seaborn scikit-learn
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 
 ## Usage
